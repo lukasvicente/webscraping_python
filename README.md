@@ -30,10 +30,10 @@ Execute CLI:
 ```
 ### Application running:
 
-
-    ###### Informação de Filmes ######
     
 ```sh   
+    ###### Informação de Filmes ######
+
     Entre com Genero/Filme: ex.: terror/a vila   
 ```
   
